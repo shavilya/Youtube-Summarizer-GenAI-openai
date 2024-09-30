@@ -1,0 +1,6 @@
+pytube
+openai==0.28
+transformers
+torch
+youtube-transcript-api 
+python-dotenv 
